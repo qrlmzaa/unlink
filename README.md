@@ -47,7 +47,7 @@ UnLink Project est un projet qui a pour but d'offrir ses services de développem
 
 ## Contributing
 
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://github.com/qrlmzaa/unlink/contributing.md) pour savoir comment le faire.
+Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://github.com/qrlmzaa/unlink/blob/main/CONTRIBUTING.md) pour savoir comment le faire.
 
 ## Auteurs
 * **qrlmza** _aka_ [@qrlmzaa](https://github.com/qrlmzaa)
@@ -56,5 +56,5 @@ Lisez la liste des [contributeurs](https://github.com/qrlmzaa/unlink/contributor
 
 ## License
 
-Ce projet est sous licence ``Lisence: WTFTPL`` - voir le fichier [LICENSE.md](https://github.com/qrlmzaa/unlink/LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``Lisence: WTFTPL`` - voir le fichier [LICENSE.md](https://github.com/qrlmzaa/unlink/blob/main/LICENSE.md) pour plus d'informations
 
