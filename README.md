@@ -56,5 +56,5 @@ Lisez la liste des [contributeurs](https://github.com/qrlmzaa/unlink/contributor
 
 ## License
 
-Ce projet est sous licence ``Lisence: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``Lisence: WTFTPL`` - voir le fichier [LICENSE.md](https://github.com/qrlmzaa/unlink/LICENSE.md) pour plus d'informations
 
